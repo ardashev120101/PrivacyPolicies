@@ -55,4 +55,4 @@ policy will be updated before that version is released.
 
 ## Contact
 
-Questions about this policy: **ruslan@alumni.duke.edu**
+Questions about this policy: **ardashev120101@gmail.com**
