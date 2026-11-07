@@ -20,8 +20,8 @@ To find and join parties, CrowdBoombox uses the local network and direct connect
 between nearby phones. iOS asks for permission the first time.
 
 - A phone hosting or relaying a party shows its display name to nearby phones running
-  CrowdBoombox, so they can find the party, along with whether its network state may
-  make joining hard. You choose the name; it doesn't have to be your real one.
+  CrowdBoombox, so they can find the party. You choose the name; it doesn't have to be
+  your real one.
 - Phones in a party exchange what's needed to play in sync: the music, the queue, display
   names, and technical details such as timing, connection quality, and whether a phone is
   charging and how full its battery is. This stays between the phones in the party.
