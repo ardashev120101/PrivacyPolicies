@@ -1,6 +1,6 @@
 # CrowdBoombox Privacy Policy
 
-*Effective November 6, 2026*
+*Effective November 7, 2026*
 
 CrowdBoombox plays the same music on nearby phones at the same moment. It was made to
 collect nothing about the people who use it.
@@ -12,7 +12,7 @@ collect nothing about the people who use it.
 - It has no accounts, ads, analytics, or tracking.
 - Music and party information travel only between the phones in a party, nearby. They
   are never sent to us or to any server.
-- Optional tips are handled entirely by Apple.
+- Optional tips and court purchases are handled entirely by Apple.
 
 ## Nearby phones and the local network
 
@@ -20,8 +20,8 @@ To find and join parties, CrowdBoombox uses the local network and direct connect
 between nearby phones. iOS asks for permission the first time.
 
 - A phone hosting or relaying a party shows its display name to nearby phones running
-  CrowdBoombox, so they can find the party. You choose the name; it doesn't have to be
-  your real one.
+  CrowdBoombox, so they can find the party, along with whether its network state may
+  make joining hard. You choose the name; it doesn't have to be your real one.
 - Phones in a party exchange what's needed to play in sync: the music, the queue, display
   names, and technical details such as timing, connection quality, and whether a phone is
   charging and how full its battery is. This stays between the phones in the party.
@@ -65,10 +65,13 @@ Your listening time and party count are kept on your phone only and are never se
 anywhere. The app may keep a short technical log on your phone to help with problems; it
 never leaves the phone unless you choose to share it.
 
-## Tips
+## Tips and courts
 
-Tips are optional in-app purchases processed by Apple. We never see your payment
-details. Apple's privacy policy covers these purchases.
+Tips and courts (the app's color themes) are optional in-app purchases processed by
+Apple. We never see your payment details. Which courts you own is confirmed with Apple
+and remembered on your phone, along with the court you picked; Restore Purchases asks
+Apple again. Choosing a court also changes the app's icon on your phone. Apple's privacy
+policy covers these purchases.
 
 ## Links and other apps
 
