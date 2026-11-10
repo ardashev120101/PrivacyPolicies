@@ -33,8 +33,9 @@ between nearby phones. iOS asks for permission the first time.
 
 ## Your music
 
-When you host, CrowdBoombox reads only the songs you choose from your Music library and
-streams them to the phones in your party. iOS asks for permission first.
+When you host, CrowdBoombox lists your Music library so you can pick songs, and plays
+only the songs you choose, streaming them to the phones in your party. iOS asks for
+permission first.
 
 - Music is only ever streamed. No phone keeps a lasting copy of your songs.
 - While a party is playing, each phone holds a temporary cache of what it's playing, so
@@ -65,7 +66,9 @@ device identifiers, usage data, or diagnostics. It contains no third-party code 
 does.
 
 Your listening time and party count are kept on your phone only and are never sent
-anywhere. The app may keep a short technical log on your phone to help with problems; it
+anywhere. While you host, the app also saves your party and its queue (song titles and
+artists) on your phone, so the party can pick up again if the app closes unexpectedly;
+it's deleted when the party ends and is never backed up. The app may keep a short technical log on your phone to help with problems; it
 never leaves the phone unless you choose to share it.
 
 ## Tips and courts
@@ -81,6 +84,12 @@ policy covers these purchases.
 The app can show other apps by the same developer, using public information from the
 App Store, and links to the developer's website and YouTube channel. Those open outside
 the app and have their own privacy policies.
+
+To show this policy, the app downloads its latest version from GitHub, where it's
+published. To show the developer's other apps, it asks Apple's App Store for their
+public listings. These requests contain no information about you or your parties; like
+any web request, they reach GitHub's and Apple's servers from your phone's internet
+address.
 
 ## Children's privacy
 
