@@ -1,6 +1,6 @@
 # CrowdBoombox Privacy Policy
 
-*Effective November 7, 2026*
+*Effective November 9, 2026*
 
 CrowdBoombox plays the same music on nearby phones at the same moment. It was made to
 collect nothing about the people who use it.
@@ -22,9 +22,12 @@ between nearby phones. iOS asks for permission the first time.
 - A phone hosting or relaying a party shows its display name to nearby phones running
   CrowdBoombox, so they can find the party. You choose the name; it doesn't have to be
   your real one.
-- Phones in a party exchange what's needed to play in sync: the music, the queue, display
+- Phones in a party exchange only what's needed to play in sync. For music, that means
+  short, temporary pieces of the song that's playing, sent just ahead of when they play.
+  They are not song files: they can't be opened, saved, or shared, and they are deleted
+  soon after they play (see **Your music** below). Phones also share the queue, display
   names, and technical details such as timing, connection quality, and whether a phone is
-  charging and how full its battery is. This stays between the phones in the party.
+  charging and how full its battery is. All of this stays between the phones in the party.
 - You can change local network permission at any time in
   **Settings > CrowdBoombox > Local Network**.
 
